@@ -1,0 +1,16 @@
+# Node
+node_modules/
+
+# Build
+dist/
+
+# Environment
+.env
+*.env
+Backend_/.env
+
+# Logs
+npm-debug.log*
+
+# OS
+.DS_Store
